@@ -1,8 +1,11 @@
 *You can use this project to gain some points on Tremorgames*
+WARNING: This is simply for educational purposes.
+Any damage to Tremorgames or your account is not intentional, instead, this project is for Tremorgames to notice their errors to fix them as soon as possible.
+Use it at your own risk!
 
 
 **Dependencies**
-This script uses Python3, please make sure you use it instead of the newer version.
+This script uses Python3, Python2 is not compatible.
 You will need to download the following libraries:
 
 	numpy
